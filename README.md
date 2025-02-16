@@ -1,4 +1,4 @@
-I was boored and wanted to create a simple fetch weather information by providing latitude and longitude coordinates
+I was boored and wanted to create a simple fetch weather information app by providing latitude and longitude coordinates
 
 Usage -
 Clone the repository or download the source code.
